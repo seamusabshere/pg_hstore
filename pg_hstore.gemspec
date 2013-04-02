@@ -15,7 +15,7 @@ Gem::Specification.new do |s|
   s.email = ["pvh@heroku.com", "seamus@abshere.net"]
 
   s.files = []
-  s.require_paths = []
+  s.require_paths = ['empty']
 
   s.add_runtime_dependency 'pg-hstore'
 
